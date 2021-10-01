@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    
+}
+
+ul li{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    padding: 10px;
+}
+
+h3{
+    text-align:center;
+}
+
+.container{
+  
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    
+    
+}
+
+.box{
+    background-color: grey;
+    height: 200px;
+    padding: 10px;
+    
+    
+}
